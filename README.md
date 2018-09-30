@@ -5,7 +5,7 @@
 
 git 명령어
 
-                                                            https://brainbackdoor.tistory.com/15
+                                                                https://brainbackdoor.tistory.com/15
 <일반적인 작업시 사용하는 명령어>
 
  $ cd [깃 로컬 저장소 경로]
